@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GCTU Campus Guide project mark">
+  <rect width="512" height="512" rx="72" fill="#11294b"/>
+  <rect x="48" y="62" width="416" height="8" fill="#e7b840"/>
+  <text x="52" y="292" fill="#fffefa" font-family="Georgia, serif" font-size="136" font-weight="700" letter-spacing="-7">GCTU</text>
+  <text x="57" y="362" fill="#e7b840" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6">CAMPUS GUIDE</text>
+  <text x="57" y="411" fill="#d0d7e0" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">TESANO · ACCRA</text>
+</svg>
